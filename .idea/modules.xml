@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/classroomDBMS.iml" filepath="$PROJECT_DIR$/.idea/classroomDBMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-admin/ruoyi-admin.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-admin/ruoyi-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-common/ruoyi-common.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-common/ruoyi-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-framework/ruoyi-framework.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-framework/ruoyi-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-generator/ruoyi-generator.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-generator/ruoyi-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-quartz/ruoyi-quartz.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-quartz/ruoyi-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-system/ruoyi-system.iml" filepath="$PROJECT_DIR$/RuoYi-classroomDBMS/ruoyi-system/ruoyi-system.iml" />
+    </modules>
+  </component>
+</project>
